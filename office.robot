@@ -15,5 +15,6 @@ Testcase 1
     Click Element        //div[@id='btn-searchResultPage']
     Sleep       10s
     Element Should Contain       //div[@class='title']   ขออภัย! ไม่พบสินค้าที่ตรงกับ "@"
+    Close Browser
     
 
